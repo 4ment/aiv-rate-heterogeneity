@@ -2,7 +2,7 @@
 
 This repository contains the data sets supporting the results of the following article:
 
-Fourment M. & Holmes E.C. Avian influenza virus exhibits distinct evolutionary dynamics in wild birds and poultry. *BMC Evolutionary Biology*, in press.
+Fourment M. & Holmes E.C. Avian influenza virus exhibits distinct evolutionary dynamics in wild birds and poultry. *BMC Evolutionary Biology*, 2015, 15:120; doi: 10.1186/s12862-015-0410-5.
 
 Each FASTA file contains a nucleotide alignment:
 
